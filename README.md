@@ -1,3 +1,3 @@
 # Virtual-Avatar-BOB
-Created a full-fledged overhaul, standalone virtual avatar for BOB using Python programming language.
+Created virtual avatar using python for BOB
 this is a virtual avatar made by Elemen op as fun project
