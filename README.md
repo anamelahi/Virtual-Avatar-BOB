@@ -7,10 +7,12 @@ this is a virtual avatar made by Elemen op as fun project
 .
 .
 .
-..
 .
+.
+..
 ...
 ..
 ..
+.
 Akshay kumar
 
